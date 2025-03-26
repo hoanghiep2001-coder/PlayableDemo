@@ -2,6 +2,12 @@ const BestPA = [
     {
         timeline: "List:",
         data: [
+            // SuperMarketTycoon3D_PA_04_Applovin
+            {
+                path: "/PATestDemo/SuperMarketTycoon3D_PA_04_Applovin.html",
+                name: "SuperMarketTycoon3D_PA_04_Applovin",
+                dev: "",
+            },
             {
                 path: "/PATestDemo/VH_Playable_V3_02_Remake_FH_Playable_V12_01.html",
                 name: "VH_Playable_V3_02_Remake_FH_Playable_V12_01",
