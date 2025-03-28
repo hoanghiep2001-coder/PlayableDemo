@@ -5,6 +5,11 @@ const BestPA = [
             // SuperMarketTycoon3D_PA_04_Applovin
             // SuperMarketTycoon3D_PA_04_Unity
             {
+                path: "/PATestDemo/FH_Playable_V18_03.html",
+                name: "FH_Playable_V18_01",
+                dev: "",
+            },
+            {
                 path: "/PATestDemo/FH_Playable_V18_01.html",
                 name: "FH_Playable_V18_01",
                 dev: "",
