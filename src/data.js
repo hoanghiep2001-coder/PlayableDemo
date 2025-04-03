@@ -7,6 +7,12 @@ const BestPA = [
       // FH_Playable_V20_01
       // FH_Playable_V19_02
       // FH_Playable_V18_01_Fix
+      // VH_Playable_V3_04_2Levels
+      {
+        path: "/PATestDemo/VH_Playable_V3_04_2Levels.html",
+        name: "VH_Playable_V3_04_2Levels",
+        dev: "",
+      },
       {
         path: "/PATestDemo/FH_Playable_V18_01_Fix.html",
         name: "FH_Playable_V18_01_Fix",
@@ -17,11 +23,11 @@ const BestPA = [
         name: "FH_Playable_V20_02",
         dev: "",
       },
-      {
-        path: "/PATestDemo/FH_Playable_V19_02 levels.html",
-        name: "FH_Playable_V19_02 levels",
-        dev: "",
-      },
+      // {
+      //   path: "/PATestDemo/FH_Playable_V19_02 levels.html",
+      //   name: "FH_Playable_V19_02 levels",
+      //   dev: "",
+      // },
       {
         path: "/PATestDemo/VH_Playable_V3_04_2 levels.html",
         name: "VH_Playable_V3_04_2 levels",
