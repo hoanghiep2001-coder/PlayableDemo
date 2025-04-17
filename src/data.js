@@ -4,6 +4,12 @@ const BestPA = [
         data: [
             // GTMP_Playable_V42_03_ClonePlayableV10_03
             // GTMP_Playable_V41_Satisfying
+            // FH_Playable_V22_01_2DenseCone
+            {
+                path: "/PATestDemo/FH_Playable_V22_01_2DenseCone.html",
+                name: "FH_Playable_V22_01_2DenseCone",
+                dev: "",
+            },
             {
                 path: "/PATestDemo/GTMP_Playable_V42_03_ClonePlayableV10_03.html",
                 name: "GTMP_Playable_V42_03_ClonePlayableV10_03",
