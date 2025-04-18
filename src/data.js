@@ -12,13 +12,13 @@ const BestPA = [
                 dev: "",
             },
             {
-                path: "/PATestDemo/FH_Playable_V22_03_3Cone.html",
-                name: "FH_Playable_V22_03_3Cone",
+                path: "/PATestDemo/FH_Playable_V22_03_3DenseCone.html",
+                name: "FH_Playable_V22_03_3DenseCone",
                 dev: "",
             },
             {
-                path: "/PATestDemo/FH_Playable_V22_02_3DenseCone.html",
-                name: "FH_Playable_V22_02_3DenseCone",
+                path: "/PATestDemo/FH_Playable_V22_02_3Cone.html",
+                name: "FH_Playable_V22_02_3Cone",
                 dev: "",
             },
             {
