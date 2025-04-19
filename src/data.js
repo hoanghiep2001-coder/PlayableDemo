@@ -7,8 +7,8 @@ const BestPA = [
             // FH_Playable_V22_01_2DenseCone
             // FH_Playable_V23_01_RoadMap
             {
-                path: "/PATestDemo/FH_Playable_V23_01_RoadMap.html",
-                name: "FH_Playable_V23_01_RoadMap",
+                path: "/PATestDemo/FH_Playable_V23_RoadMap.html",
+                name: "FH_Playable_V23_RoadMap",
                 dev: "",
             },
             {
